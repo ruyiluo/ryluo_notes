@@ -1,0 +1,109 @@
+absl-py==1.0.0
+aiohttp @ file:///tmp/build/80754af9/aiohttp_1646806366512/work
+aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
+asttokens==2.0.5
+astunparse==1.6.3
+async-timeout @ file:///tmp/build/80754af9/async-timeout_1637851218186/work
+attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
+backcall==0.2.0
+boto3 @ file:///opt/conda/conda-bld/boto3_1649078879353/work
+botocore @ file:///opt/conda/conda-bld/botocore_1649076662316/work
+brotlipy==0.7.0
+cachetools==4.2.4
+certifi==2021.10.8
+cffi @ file:///opt/conda/conda-bld/cffi_1642701102775/work
+charset-normalizer==2.0.12
+cryptography @ file:///tmp/build/80754af9/cryptography_1639400846433/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+Cython @ file:///tmp/build/80754af9/cython_1647832478439/work
+debugpy==1.5.1
+decorator==5.1.1
+entrypoints==0.4
+executing==0.8.3
+fonttools==4.25.0
+frozenlist @ file:///tmp/build/80754af9/frozenlist_1637767111923/work
+gast==0.3.3
+gensim @ file:///tmp/build/80754af9/gensim_1646824935317/work
+google-api-core @ file:///C:/ci/google-api-core-split_1613980333946/work
+google-auth==1.35.0
+google-auth-oauthlib==0.4.6
+google-cloud-core @ file:///tmp/build/80754af9/google-cloud-core_1625077425256/work
+google-cloud-storage @ file:///tmp/build/80754af9/google-cloud-storage_1626308236607/work
+google-crc32c @ file:///tmp/build/80754af9/google-crc32c_1612242931720/work
+google-pasta==0.2.0
+google-resumable-media @ file:///tmp/build/80754af9/google-resumable-media_1624367812531/work
+googleapis-common-protos @ file:///tmp/build/80754af9/googleapis-common-protos-feedstock_1617957649450/work
+grpcio==1.44.0
+h5py==2.10.0
+idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+importlib-metadata==4.11.2
+ipykernel==6.9.2
+ipython==8.1.1
+jedi==0.18.1
+jmespath @ file:///Users/ktietz/demo/mc3/conda-bld/jmespath_1630583964805/work
+joblib==1.1.0
+jupyter-client==7.1.2
+jupyter-core==4.9.2
+Keras-Preprocessing==1.1.2
+kiwisolver @ file:///opt/conda/conda-bld/kiwisolver_1638569886207/work
+Markdown==3.3.6
+matplotlib @ file:///tmp/build/80754af9/matplotlib-suite_1647441664166/work
+matplotlib-inline==0.1.3
+mkl-fft==1.3.1
+mkl-random @ file:///tmp/build/80754af9/mkl_random_1626186064646/work
+mkl-service==2.4.0
+multidict @ file:///opt/conda/conda-bld/multidict_1640703752579/work
+munkres==1.1.4
+nest-asyncio==1.5.4
+networkx @ file:///opt/conda/conda-bld/networkx_1647437648384/work
+numpy==1.22.3
+oauthlib==3.2.0
+opt-einsum==3.3.0
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas==1.4.1
+parso==0.8.3
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow==9.0.1
+prompt-toolkit==3.0.28
+protobuf==3.19.4
+psutil==5.9.0
+ptyprocess==0.7.0
+pure-eval==0.2.2
+pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+Pygments==2.11.2
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2021.3
+pyzmq==22.3.0
+requests @ file:///opt/conda/conda-bld/requests_1641824580448/work
+requests-oauthlib==1.3.1
+rsa==4.8
+s3transfer @ file:///tmp/build/80754af9/s3transfer_1626435152308/work
+scikit-learn==1.0.2
+scipy @ file:///tmp/build/80754af9/scipy_1641555001653/work
+sip==4.19.13
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sklearn==0.0
+smart-open @ file:///tmp/build/80754af9/smart_open_1623928409369/work
+stack-data==0.2.0
+tensorboard==2.2.2
+tensorboard-plugin-wit==1.8.1
+tensorflow-estimator==2.2.0
+tensorflow-gpu==2.2.0
+termcolor==1.1.0
+threadpoolctl==3.1.0
+tornado @ file:///tmp/build/80754af9/tornado_1606942300299/work
+tqdm==4.63.0
+traitlets==5.1.1
+typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
+urllib3 @ file:///opt/conda/conda-bld/urllib3_1650639997961/work
+wcwidth==0.2.5
+Werkzeug==2.0.3
+wrapt==1.14.0
+yarl @ file:///tmp/build/80754af9/yarl_1598045023180/work
+zipp==3.7.0
